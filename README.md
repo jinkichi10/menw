@@ -32,7 +32,7 @@ https://menw.herokuapp.com/
 ・カリキュラム以外の教材で、アプリを作成する事でrailsの理解が深まると考えました。
 
 # DEMO(gifで動画や写真を貼って、ビューのイメージを掴んでもらいます)
-￼https://github.com/jinkichi10/menw/blob/master/FCF8B377-F8DE-4888-A93D-EE5C5191E527.jpeg
+https://gyazo.com/e2f4704209534db7815563c9ab96d9d0
 ￼
 
 
