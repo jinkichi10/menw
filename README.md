@@ -36,9 +36,6 @@ https://menw.herokuapp.com/
 ![2020-09-14 17 07のイメージ](https://user-images.githubusercontent.com/67736186/93060857-b4201d00-f6ad-11ea-993b-7d246927501d.jpeg)
 
 ￼
-
-
-
 # 工夫したポイント
 ・実際のinstagramのようなビューに近付けました。
 
@@ -61,8 +58,6 @@ https://menw.herokuapp.com/
 ・1投稿で複数枚の写真投稿機能
 ・地図機能（お店やスポットの位置情報）
 ・拡張子「heic」を投稿可能にする。
-
-# DB設計
 
 # menstagram DB設計
 
